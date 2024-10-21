@@ -4,5 +4,10 @@
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
 
-warp://[2606:4700:d1::258c:1f1a:f4b2]:1180?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n1
-warp://[2606:4700:d1::c587:1f1b:ed6e]:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#IP6n2
+warp://[2606:4700:d0::21e0:ccde:ca89:b756]:955?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n1
+warp://[2606:4700:d0::2f8f:748c:c723:7dad]:3854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n1
+warp://[2606:4700:d1::9f49:c7d6:78ae:b6ab]:1018?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n3
+warp://[2606:4700:d1::a012:3659:1e23:f0a3]:859?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n4
+warp://[2606:4700:d1::9cac:d6a0:9b04:26]:8742?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n5
+warp://[2606:4700:d1::9e08:97f5:a4b2:665f]:1018?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n6
+warp://auto6?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4Auto
