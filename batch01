@@ -4,8 +4,6 @@
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
 
-warp://auto6?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
 warp://[2606:4700:d1::258c:1f1a:f4b2]:1180?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n1
 warp://[2606:4700:d1::c587:1f1b:ed6e]:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#IP6n2
 
-warp://auto&&detour=warp://auto
