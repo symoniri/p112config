@@ -3,10 +3,10 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 
 warp://auto6?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6Auto
-warp://[2606:4700:d0::21e0:ccde:ca89:b756]:955?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n1
-warp://[2606:4700:d0::2868:d50f:4d62:c6fe]:3854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n2
-warp://[2606:4700:d1::9f49:c7d6:78ae:b6ab]:1018?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n3
-warp://[2606:4700:d1::a000:87a3:5394:3e39]:859?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n4
+warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@[2606:4700:d0::21e0:ccde:ca89:b756]:955?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n1
+warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@[2606:4700:d0::2868:d50f:4d62:c6fe]:3854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n2
+warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@[2606:4700:d1::9f49:c7d6:78ae:b6ab]:1018?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n3
+warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@[2606:4700:d1::a000:87a3:5394:3e39]:859?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n4
 warp://[2606:4700:d1::9cac:d6a0:9b04:26]:8742?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n5
 warp://[2606:4700:d0::1458:32a1:f454:4a7b]:942?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n6
 warp://[2606:4700:d1::9e13:1ecb:8333:85b8]:1018?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n7
