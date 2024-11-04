@@ -2,9 +2,9 @@
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 
-warp://auto4?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4Auto
-warp://188.114.98.44:946?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n1
-warp://188.114.97.16:946?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n2
-warp://188.114.98.160:8854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n3
-warp://162.159.192.130:988?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n4
-warp://188.114.97.24:1701?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n5
+warp://auto4?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP4Auto
+warp://188.114.98.44:946?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP4n1
+warp://188.114.97.16:946?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP4n2
+warp://188.114.98.160:8854?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP4n3
+warp://162.159.192.130:988?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP4n4
+warp://188.114.97.24:1701?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP4n5
