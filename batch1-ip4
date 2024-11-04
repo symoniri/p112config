@@ -3,12 +3,11 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 
 warp://auto4?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4Auto
-warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@162.159.195.3:1070?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n1
-warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@162.159.192.180:908?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n2
-warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.114.98.160:8854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n3
-warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@162.159.192.130:988?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n4
-warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.114.97.24:1701?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n5
-warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@162.159.192.189:4233?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n6
-warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.114.97.16:946?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n7
-warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@162.159.192.143:8854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n8
-warp://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@162.159.192.117:1074?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n9
+warp://188.114.98.44:946?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n1
+warp://188.114.97.16:946?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n2
+warp://188.114.98.160:8854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n3
+warp://162.159.192.130:988?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n4
+warp://188.114.97.24:1701?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n5
+warp://162.159.192.189:4233?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n6
+warp://188.114.97.16:946?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n7
+warp://162.159.192.143:8854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n8
