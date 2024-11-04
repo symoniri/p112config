@@ -3,8 +3,5 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 
 warp://auto6?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6Auto
-warp://[2606:4700:d0::21e0:ccde:ca89:b756]:955?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n1
-
 warp://@auto4?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4Auto
-warp://@162.159.195.3:1070?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n1
 
