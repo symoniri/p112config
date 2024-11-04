@@ -4,18 +4,7 @@
 
 warp://auto6?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6Auto
 warp://[2606:4700:d0::21e0:ccde:ca89:b756]:955?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n1
-warp://[2606:4700:d0::2868:d50f:4d62:c6fe]:3854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n2
-warp://[2606:4700:d1::9f49:c7d6:78ae:b6ab]:1018?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n3
-warp://[2606:4700:d1::a000:87a3:5394:3e39]:859?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n4
-warp://[2606:4700:d1::9cac:d6a0:9b04:26]:8742?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n5
-warp://[2606:4700:d0::1458:32a1:f454:4a7b]:942?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6n6
 
 warp://@auto4?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4Auto
 warp://@162.159.195.3:1070?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n1
-warp://162.159.192.180:908?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n2
-warp://188.114.98.160:8854?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n3
-warp://162.159.192.130:988?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n4
-warp://188.114.97.24:1701?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n5
-warp://162.159.192.189:4233?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4n6
-
 
