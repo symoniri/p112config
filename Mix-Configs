@@ -2,6 +2,5 @@
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 
-warp://auto6?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP6Auto
-warp://auto4?ifp=20-50&ifps=40-100&ifpd=2-5&ifpm=m4#IP4Auto
-
+warp://auto4?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP4Auto
+warp://auto6?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP6Auto
