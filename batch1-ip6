@@ -6,6 +6,6 @@ warp://auto6?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP6Auto
 warp://[2606:4700:d0::78a3:e709:2e64]:945?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP6n1
 warp://[2606:4700:d0::619a:1c5b:a6be]:3138?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP6n2
 warp://[2606:4700:d1::e8a2:33c3:72ef]:1843?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP6n3
-warp://2606:4700:d0::7f2a:c365:25df]:1387?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP6n4
+warp://[2606:4700:d0::b49c:c0a7:147c]:8742?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP6n4
 warp://[2606:4700:d1::4288:f3f3:dcaa]:1180?ifp=150-200&ifps=50-80&ifpd=1-5&ifpm=m4#IP6n5
 
